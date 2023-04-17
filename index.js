@@ -1,1 +1,4 @@
-// Code your solution in this file!
+// Codec your soluti
+const companyName = 'Scuber';
+let mostProfitableNeighborhood = 'Chelsea';
+let companyCeo = 'Susan Smith';
